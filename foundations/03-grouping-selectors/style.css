@@ -1,0 +1,14 @@
+.primero,
+.segundo {
+font-size: 28px;
+font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.primero {
+background-color: hsl(0, 0%, 0%);
+color: hsl(0, 0%, 100%);
+}
+
+.segundo {
+background-color: rgb(255, 255, 00);
+}

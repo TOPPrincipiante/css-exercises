@@ -1,0 +1,21 @@
+
+
+.same {
+background-color: rgba(246, 84, 100,0.6);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#different {
+color: #0000ff;
+font-size: 36px;
+}
+
+.same.unique {
+font-size: 24px;
+}
+
+#strange {
+background-color: hsl(120, 90%, 70%);
+font-size: 24px;
+font-weight: bold;
+}
